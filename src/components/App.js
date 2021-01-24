@@ -11,7 +11,7 @@ import Header from "./header/Header";
 
 const App = () => {
     return (
-        <div className="container">
+        <div className="ui container">
             <Router history={history}>
                 <div>
                     <Header />

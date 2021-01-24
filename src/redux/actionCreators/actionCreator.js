@@ -61,5 +61,7 @@ export const deleteStream = (id) => {
         await Axios.delete(`/streams/${id}`);
 
         dispatch({type: DELETE_STREAM, payload: id});
+
+        history.push("/");
     }
 }

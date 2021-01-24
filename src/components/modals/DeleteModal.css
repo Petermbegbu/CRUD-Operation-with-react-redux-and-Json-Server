@@ -1,0 +1,25 @@
+/* .deleteModal {
+    border: 1px solid;
+    width: 100%;
+    height: 100vh;
+    background-color: #e0eadc;
+    position: relative;
+} */
+
+.modal {
+    height: 200px !important;
+    margin-left: 20% !important;
+
+}
+
+/* .modalContent {
+    border: 1px solid;
+    width: 40%;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    top: 50vh;
+    margin-left: -20%;
+    margin-top: -50px; 
+
+} */
